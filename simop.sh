@@ -68,7 +68,8 @@ case $1 in
   esac  
 
 
-
+cd ..
+rm -rf $WORKDISK
 
 
 
