@@ -1,0 +1,1307 @@
+20210322 083140.033 INFO             PET0 Running with ESMF Version 7.1.0r
+20210322 083140.035 INFO             PET0 Finalizing ESMF
+20210322 083140.214 INFO             PET0 Running with ESMF Version 7.1.0r
+20210322 083140.215 INFO             PET0 Finalizing ESMF
+20210322 083140.412 INFO             PET0 Running with ESMF Version 7.1.0r
+20210322 083202.567 INFO             PET0 Finalizing ESMF
+20210322 083451.306 INFO             PET0 Running with ESMF Version 7.1.0r
+20210322 083451.307 INFO             PET0 Finalizing ESMF
+20210322 083451.467 INFO             PET0 Running with ESMF Version 7.1.0r
+20210322 083451.468 INFO             PET0 Finalizing ESMF
+20210322 083451.709 INFO             PET0 Running with ESMF Version 7.1.0r
+20210322 083514.058 INFO             PET0 Finalizing ESMF
+20210322 084924.169 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 084924.170 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 084924.170 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 084924.170 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 084924.170 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 084924.170 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 084924.170 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 084924.170 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 084924.170 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 084924.170 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 084924.171 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 084924.171 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 084924.171 INFO             PET0 ESMF_PIO                    : disabled
+20210322 084924.171 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 084924.171 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 084924.173 INFO             PET0 Finalizing ESMF
+20210322 084924.311 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 084924.311 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 084924.311 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 084924.311 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 084924.311 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 084924.311 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 084924.311 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 084924.311 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 084924.311 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 084924.311 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 084924.311 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 084924.311 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 084924.311 INFO             PET0 ESMF_PIO                    : disabled
+20210322 084924.311 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 084924.311 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 084924.313 INFO             PET0 Finalizing ESMF
+20210322 084924.503 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 084924.503 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 084924.503 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 084924.503 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 084924.503 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 084924.503 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 084924.503 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 084924.503 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 084924.503 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 084924.503 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 084924.503 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 084924.503 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 084924.503 INFO             PET0 ESMF_PIO                    : disabled
+20210322 084924.503 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 084924.503 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 084946.769 INFO             PET0 Finalizing ESMF
+20210322 085041.102 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085041.102 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085041.102 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085041.102 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085041.102 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085041.102 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085041.102 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085041.102 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085041.102 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085041.102 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085041.103 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085041.103 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085041.103 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085041.103 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085041.103 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085041.103 INFO             PET0 Finalizing ESMF
+20210322 085041.271 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085041.271 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085041.271 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085041.271 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085041.271 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085041.271 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085041.271 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085041.271 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085041.271 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085041.271 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085041.272 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085041.272 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085041.272 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085041.272 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085041.272 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085041.272 INFO             PET0 Finalizing ESMF
+20210322 085041.454 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085041.455 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085041.455 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085041.455 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085041.455 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085041.455 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085041.455 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085041.455 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085041.455 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085041.455 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085041.455 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085041.455 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085041.455 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085041.455 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085041.455 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085101.904 INFO             PET0 Finalizing ESMF
+20210322 085244.643 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085244.643 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085244.643 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085244.643 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085244.643 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085244.643 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085244.643 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085244.643 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085244.643 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085244.643 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085244.644 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085244.644 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085244.644 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085244.644 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085244.644 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085244.644 INFO             PET0 Finalizing ESMF
+20210322 085244.791 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085244.791 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085244.791 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085244.791 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085244.791 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085244.791 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085244.791 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085244.791 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085244.791 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085244.791 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085244.792 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085244.792 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085244.792 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085244.792 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085244.792 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085244.792 INFO             PET0 Finalizing ESMF
+20210322 085245.028 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085245.028 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085245.028 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085245.028 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085245.028 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085245.028 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085245.028 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085245.028 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085245.028 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085245.028 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085245.029 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085245.029 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085245.029 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085245.029 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085245.029 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085307.511 INFO             PET0 Finalizing ESMF
+20210322 085310.812 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085310.813 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085310.813 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085310.813 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085310.813 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085310.813 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085310.813 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085310.813 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085310.813 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085310.813 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085310.813 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085310.813 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085310.813 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085310.813 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085310.813 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085310.814 INFO             PET0 Finalizing ESMF
+20210322 085310.978 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085310.979 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085310.979 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085310.979 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085310.979 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085310.979 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085310.979 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085310.979 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085310.979 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085310.979 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085310.979 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085310.979 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085310.979 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085310.979 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085310.979 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085310.979 INFO             PET0 Finalizing ESMF
+20210322 085311.183 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085311.183 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085311.183 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085311.183 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085311.183 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085311.183 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085311.183 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085311.183 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085311.183 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085311.183 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085311.184 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085311.184 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085311.184 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085311.184 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085311.184 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085332.318 INFO             PET0 Finalizing ESMF
+20210322 085335.693 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085335.693 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085335.693 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085335.693 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085335.693 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085335.693 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085335.693 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085335.693 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085335.693 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085335.693 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085335.693 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085335.693 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085335.693 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085335.693 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085335.693 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085335.694 INFO             PET0 Finalizing ESMF
+20210322 085335.869 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085335.870 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085335.870 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085335.870 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085335.870 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085335.870 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085335.870 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085335.870 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085335.870 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085335.870 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085335.870 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085335.870 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085335.870 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085335.870 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085335.870 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085335.871 INFO             PET0 Finalizing ESMF
+20210322 085336.133 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085336.134 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210322 085336.134 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210322 085336.134 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210322 085336.134 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210322 085336.134 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210322 085336.134 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210322 085336.134 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210322 085336.134 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210322 085336.134 INFO             PET0 ESMF_COMM                   : mpiuni
+20210322 085336.134 INFO             PET0 ESMF_NETCDF                 : enabled
+20210322 085336.134 INFO             PET0 ESMF_PNETCDF                : disabled
+20210322 085336.134 INFO             PET0 ESMF_PIO                    : disabled
+20210322 085336.134 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210322 085336.134 INFO             PET0 ESMF_MOAB                   : enabled
+20210322 085358.539 INFO             PET0 Finalizing ESMF
+20210329 090802.733 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090802.734 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090802.734 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090802.734 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090802.734 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090802.734 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090802.734 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090802.735 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090802.735 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090802.735 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090802.736 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090802.736 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090802.736 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090802.736 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090802.736 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090802.738 INFO             PET0 Finalizing ESMF
+20210329 090802.868 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090802.868 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090802.868 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090802.868 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090802.868 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090802.868 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090802.868 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090802.868 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090802.868 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090802.868 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090802.868 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090802.868 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090802.868 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090802.868 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090802.868 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090802.869 INFO             PET0 Finalizing ESMF
+20210329 090803.011 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090803.011 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090803.011 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090803.011 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090803.011 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090803.011 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090803.011 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090803.011 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090803.011 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090803.011 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090803.011 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090803.011 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090803.011 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090803.011 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090803.011 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090817.136 INFO             PET0 Finalizing ESMF
+20210329 090819.378 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090819.379 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090819.379 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090819.379 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090819.379 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090819.379 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090819.379 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090819.379 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090819.379 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090819.379 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090819.379 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090819.379 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090819.379 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090819.379 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090819.379 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090819.379 INFO             PET0 Finalizing ESMF
+20210329 090819.478 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090819.478 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090819.478 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090819.478 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090819.478 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090819.478 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090819.478 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090819.478 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090819.478 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090819.478 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090819.478 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090819.478 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090819.478 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090819.478 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090819.478 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090819.479 INFO             PET0 Finalizing ESMF
+20210329 090819.612 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090819.612 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090819.612 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090819.612 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090819.612 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090819.612 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090819.612 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090819.612 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090819.612 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090819.612 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090819.613 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090819.613 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090819.613 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090819.613 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090819.613 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090833.612 INFO             PET0 Finalizing ESMF
+20210329 090835.808 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090835.808 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090835.808 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090835.808 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090835.808 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090835.808 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090835.808 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090835.808 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090835.808 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090835.808 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090835.808 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090835.808 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090835.808 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090835.808 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090835.808 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090835.809 INFO             PET0 Finalizing ESMF
+20210329 090835.914 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090835.914 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090835.914 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090835.914 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090835.914 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090835.914 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090835.914 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090835.914 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090835.914 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090835.914 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090835.914 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090835.914 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090835.914 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090835.914 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090835.914 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090835.914 INFO             PET0 Finalizing ESMF
+20210329 090836.046 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090836.046 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210329 090836.046 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210329 090836.046 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210329 090836.046 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210329 090836.046 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210329 090836.046 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210329 090836.046 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210329 090836.046 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210329 090836.046 INFO             PET0 ESMF_COMM                   : mpiuni
+20210329 090836.046 INFO             PET0 ESMF_NETCDF                 : enabled
+20210329 090836.046 INFO             PET0 ESMF_PNETCDF                : disabled
+20210329 090836.046 INFO             PET0 ESMF_PIO                    : disabled
+20210329 090836.046 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210329 090836.046 INFO             PET0 ESMF_MOAB                   : enabled
+20210329 090850.236 INFO             PET0 Finalizing ESMF
+20210401 100803.425 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100803.429 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100803.429 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100803.429 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100803.429 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100803.429 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100803.429 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100803.429 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100803.429 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100803.429 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100803.431 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100803.431 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100803.431 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100803.431 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100803.431 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100803.435 INFO             PET0 Finalizing ESMF
+20210401 100803.532 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100803.532 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100803.532 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100803.532 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100803.532 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100803.532 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100803.532 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100803.532 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100803.532 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100803.532 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100803.532 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100803.532 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100803.532 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100803.532 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100803.532 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100803.534 INFO             PET0 Finalizing ESMF
+20210401 100803.661 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100803.661 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100803.661 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100803.661 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100803.661 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100803.661 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100803.661 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100803.662 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100803.662 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100803.662 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100803.662 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100803.662 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100803.662 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100803.662 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100803.662 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100819.696 INFO             PET0 Finalizing ESMF
+20210401 100822.599 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100822.599 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100822.599 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100822.599 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100822.599 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100822.599 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100822.599 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100822.599 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100822.599 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100822.599 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100822.599 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100822.599 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100822.599 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100822.599 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100822.599 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100822.599 INFO             PET0 Finalizing ESMF
+20210401 100822.708 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100822.708 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100822.708 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100822.708 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100822.708 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100822.708 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100822.708 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100822.708 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100822.708 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100822.708 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100822.708 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100822.708 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100822.708 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100822.708 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100822.708 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100822.709 INFO             PET0 Finalizing ESMF
+20210401 100822.852 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100822.852 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100822.852 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100822.852 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100822.852 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100822.852 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100822.852 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100822.852 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100822.852 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100822.852 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100822.852 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100822.852 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100822.852 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100822.852 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100822.852 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100841.049 INFO             PET0 Finalizing ESMF
+20210401 100843.871 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100843.871 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100843.871 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100843.871 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100843.871 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100843.871 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100843.871 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100843.871 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100843.871 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100843.871 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100843.871 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100843.871 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100843.871 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100843.871 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100843.871 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100843.872 INFO             PET0 Finalizing ESMF
+20210401 100844.005 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100844.005 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100844.005 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100844.005 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100844.005 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100844.005 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100844.005 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100844.005 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100844.005 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100844.005 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100844.005 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100844.005 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100844.005 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100844.005 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100844.005 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100844.005 INFO             PET0 Finalizing ESMF
+20210401 100844.184 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100844.184 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210401 100844.184 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210401 100844.184 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210401 100844.184 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210401 100844.184 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210401 100844.184 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210401 100844.184 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210401 100844.184 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210401 100844.184 INFO             PET0 ESMF_COMM                   : mpiuni
+20210401 100844.184 INFO             PET0 ESMF_NETCDF                 : enabled
+20210401 100844.184 INFO             PET0 ESMF_PNETCDF                : disabled
+20210401 100844.184 INFO             PET0 ESMF_PIO                    : disabled
+20210401 100844.184 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210401 100844.184 INFO             PET0 ESMF_MOAB                   : enabled
+20210401 100903.164 INFO             PET0 Finalizing ESMF
+20210405 075326.430 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075326.431 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075326.431 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075326.431 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075326.431 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075326.431 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075326.431 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075326.432 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075326.432 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075326.432 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075326.434 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075326.434 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075326.434 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075326.434 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075326.434 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075326.438 INFO             PET0 Finalizing ESMF
+20210405 075326.527 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075326.527 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075326.527 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075326.527 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075326.527 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075326.527 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075326.527 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075326.528 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075326.528 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075326.528 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075326.528 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075326.528 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075326.528 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075326.528 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075326.528 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075326.529 INFO             PET0 Finalizing ESMF
+20210405 075326.759 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075326.759 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075326.759 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075326.759 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075326.759 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075326.759 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075326.759 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075326.759 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075326.759 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075326.759 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075326.759 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075326.759 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075326.759 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075326.759 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075326.759 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075430.045 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075430.045 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075430.045 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075430.045 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075430.045 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075430.045 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075430.045 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075430.045 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075430.045 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075430.045 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075430.045 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075430.045 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075430.045 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075430.045 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075430.045 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075430.046 INFO             PET0 Finalizing ESMF
+20210405 075430.134 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075430.134 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075430.134 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075430.134 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075430.134 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075430.134 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075430.134 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075430.134 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075430.134 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075430.134 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075430.134 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075430.134 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075430.134 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075430.134 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075430.134 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075430.134 INFO             PET0 Finalizing ESMF
+20210405 075430.219 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075430.219 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075430.219 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075430.219 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075430.219 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075430.219 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075430.219 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075430.219 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075430.219 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075430.219 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075430.219 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075430.219 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075430.219 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075430.219 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075430.219 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075445.406 INFO             PET0 Finalizing ESMF
+20210405 075447.866 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075447.866 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075447.866 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075447.866 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075447.866 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075447.866 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075447.866 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075447.866 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075447.866 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075447.866 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075447.866 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075447.866 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075447.866 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075447.866 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075447.866 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075447.867 INFO             PET0 Finalizing ESMF
+20210405 075447.977 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075447.977 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075447.977 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075447.977 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075447.977 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075447.977 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075447.977 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075447.977 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075447.977 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075447.977 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075447.977 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075447.977 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075447.977 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075447.977 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075447.977 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075447.977 INFO             PET0 Finalizing ESMF
+20210405 075448.116 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075448.116 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075448.116 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075448.116 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075448.116 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075448.116 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075448.116 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075448.116 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075448.116 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075448.116 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075448.116 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075448.116 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075448.116 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075448.116 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075448.116 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075502.746 INFO             PET0 Finalizing ESMF
+20210405 075506.236 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075506.236 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075506.236 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075506.236 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075506.236 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075506.236 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075506.236 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075506.236 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075506.236 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075506.236 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075506.237 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075506.237 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075506.237 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075506.237 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075506.237 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075506.237 INFO             PET0 Finalizing ESMF
+20210405 075506.339 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075506.340 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075506.340 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075506.340 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075506.340 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075506.340 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075506.340 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075506.340 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075506.340 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075506.340 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075506.340 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075506.340 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075506.340 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075506.340 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075506.340 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075506.340 INFO             PET0 Finalizing ESMF
+20210405 075506.476 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075506.476 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075506.476 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075506.476 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075506.476 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075506.476 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075506.476 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075506.476 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075506.476 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075506.476 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075506.476 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075506.476 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075506.476 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075506.476 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075506.476 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075521.172 INFO             PET0 Finalizing ESMF
+20210405 075935.342 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075935.343 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075935.343 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075935.343 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075935.343 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075935.343 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075935.343 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075935.343 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075935.343 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075935.343 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075935.343 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075935.343 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075935.343 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075935.343 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075935.343 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075935.343 INFO             PET0 Finalizing ESMF
+20210405 075935.426 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075935.426 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075935.426 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075935.426 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075935.426 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075935.426 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075935.426 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075935.426 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075935.426 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075935.426 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075935.426 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075935.426 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075935.426 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075935.426 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075935.426 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075935.427 INFO             PET0 Finalizing ESMF
+20210405 075935.554 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075935.555 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075935.555 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075935.555 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075935.555 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075935.555 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075935.555 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075935.555 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075935.555 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075935.555 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075935.555 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075935.555 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075935.555 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075935.555 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075935.555 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075949.012 INFO             PET0 Finalizing ESMF
+20210405 075951.184 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075951.184 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075951.184 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075951.184 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075951.184 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075951.184 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075951.184 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075951.184 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075951.184 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075951.184 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075951.184 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075951.184 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075951.184 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075951.184 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075951.184 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075951.184 INFO             PET0 Finalizing ESMF
+20210405 075951.293 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075951.293 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075951.293 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075951.293 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075951.293 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075951.293 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075951.293 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075951.293 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075951.293 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075951.293 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075951.293 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075951.293 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075951.293 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075951.293 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075951.293 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 075951.293 INFO             PET0 Finalizing ESMF
+20210405 075951.424 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075951.424 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 075951.424 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 075951.424 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 075951.424 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 075951.424 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 075951.424 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 075951.424 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 075951.424 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 075951.424 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 075951.424 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 075951.424 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 075951.424 INFO             PET0 ESMF_PIO                    : disabled
+20210405 075951.424 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 075951.424 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080005.696 INFO             PET0 Finalizing ESMF
+20210405 080007.925 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080007.925 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080007.925 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080007.925 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080007.925 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080007.925 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080007.925 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080007.925 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080007.925 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080007.925 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080007.925 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080007.925 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080007.925 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080007.925 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080007.925 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080007.925 INFO             PET0 Finalizing ESMF
+20210405 080008.021 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080008.022 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080008.022 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080008.022 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080008.022 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080008.022 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080008.022 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080008.022 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080008.022 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080008.022 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080008.022 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080008.022 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080008.022 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080008.022 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080008.022 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080008.022 INFO             PET0 Finalizing ESMF
+20210405 080008.154 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080008.154 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080008.154 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080008.154 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080008.154 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080008.154 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080008.154 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080008.154 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080008.154 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080008.154 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080008.155 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080008.155 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080008.155 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080008.155 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080008.155 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080022.310 INFO             PET0 Finalizing ESMF
+20210405 080024.326 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080024.326 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080024.326 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080024.326 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080024.326 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080024.326 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080024.326 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080024.326 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080024.326 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080024.326 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080024.326 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080024.326 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080024.326 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080024.326 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080024.326 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080024.326 INFO             PET0 Finalizing ESMF
+20210405 080024.427 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080024.428 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080024.428 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080024.428 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080024.428 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080024.428 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080024.428 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080024.428 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080024.428 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080024.428 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080024.428 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080024.428 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080024.428 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080024.428 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080024.428 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080024.428 INFO             PET0 Finalizing ESMF
+20210405 080024.564 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080024.564 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080024.564 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080024.564 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080024.564 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080024.564 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080024.564 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080024.564 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080024.564 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080024.564 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080024.564 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080024.564 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080024.564 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080024.564 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080024.564 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080039.374 INFO             PET0 Finalizing ESMF
+20210405 080041.498 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080041.498 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080041.498 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080041.498 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080041.498 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080041.498 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080041.498 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080041.498 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080041.498 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080041.498 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080041.498 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080041.498 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080041.498 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080041.498 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080041.498 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080041.499 INFO             PET0 Finalizing ESMF
+20210405 080041.602 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080041.602 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080041.602 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080041.602 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080041.602 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080041.602 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080041.602 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080041.602 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080041.602 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080041.602 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080041.602 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080041.602 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080041.602 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080041.602 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080041.602 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080041.602 INFO             PET0 Finalizing ESMF
+20210405 080041.808 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080041.809 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080041.809 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080041.809 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080041.809 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080041.809 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080041.809 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080041.809 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080041.809 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080041.809 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080041.809 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080041.809 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080041.809 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080041.809 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080041.809 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080057.173 INFO             PET0 Finalizing ESMF
+20210405 080059.256 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080059.257 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080059.257 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080059.257 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080059.257 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080059.257 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080059.257 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080059.257 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080059.257 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080059.257 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080059.257 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080059.257 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080059.257 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080059.257 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080059.257 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080059.257 INFO             PET0 Finalizing ESMF
+20210405 080059.357 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080059.358 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080059.358 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080059.358 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080059.358 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080059.358 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080059.358 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080059.358 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080059.358 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080059.358 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080059.358 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080059.358 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080059.358 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080059.358 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080059.358 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080059.358 INFO             PET0 Finalizing ESMF
+20210405 080059.908 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080059.908 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210405 080059.908 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210405 080059.908 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210405 080059.908 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210405 080059.908 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210405 080059.908 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210405 080059.908 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210405 080059.908 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210405 080059.908 INFO             PET0 ESMF_COMM                   : mpiuni
+20210405 080059.908 INFO             PET0 ESMF_NETCDF                 : enabled
+20210405 080059.908 INFO             PET0 ESMF_PNETCDF                : disabled
+20210405 080059.908 INFO             PET0 ESMF_PIO                    : disabled
+20210405 080059.908 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210405 080059.908 INFO             PET0 ESMF_MOAB                   : enabled
+20210405 080114.461 INFO             PET0 Finalizing ESMF
+20210412 085543.513 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085543.514 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085543.514 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085543.514 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085543.514 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085543.514 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085543.514 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085543.514 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085543.514 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085543.514 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085543.516 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085543.516 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085543.516 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085543.516 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085543.516 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085543.519 INFO             PET0 Finalizing ESMF
+20210412 085543.622 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085543.622 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085543.622 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085543.622 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085543.622 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085543.622 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085543.622 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085543.622 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085543.622 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085543.622 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085543.622 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085543.622 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085543.622 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085543.622 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085543.622 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085543.624 INFO             PET0 Finalizing ESMF
+20210412 085543.778 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085543.779 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085543.779 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085543.779 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085543.779 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085543.779 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085543.779 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085543.779 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085543.779 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085543.779 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085543.787 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085543.787 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085543.787 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085543.787 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085543.787 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085559.520 INFO             PET0 Finalizing ESMF
+20210412 085601.845 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085601.845 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085601.845 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085601.845 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085601.845 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085601.845 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085601.845 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085601.846 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085601.846 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085601.846 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085601.846 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085601.846 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085601.846 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085601.846 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085601.846 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085601.846 INFO             PET0 Finalizing ESMF
+20210412 085601.953 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085601.953 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085601.953 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085601.954 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085601.954 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085601.954 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085601.954 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085601.954 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085601.954 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085601.954 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085601.954 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085601.954 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085601.954 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085601.954 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085601.954 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085601.954 INFO             PET0 Finalizing ESMF
+20210412 085602.096 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085602.096 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085602.096 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085602.096 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085602.096 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085602.096 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085602.096 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085602.096 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085602.096 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085602.096 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085602.096 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085602.096 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085602.096 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085602.096 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085602.096 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085617.662 INFO             PET0 Finalizing ESMF
+20210412 085619.965 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085619.965 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085619.965 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085619.965 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085619.965 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085619.965 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085619.965 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085619.965 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085619.965 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085619.965 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085619.966 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085619.966 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085619.966 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085619.966 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085619.966 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085619.966 INFO             PET0 Finalizing ESMF
+20210412 085620.067 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085620.067 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085620.067 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085620.067 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085620.067 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085620.067 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085620.067 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085620.067 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085620.067 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085620.067 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085620.067 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085620.067 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085620.067 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085620.067 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085620.067 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085620.068 INFO             PET0 Finalizing ESMF
+20210412 085620.205 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085620.206 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085620.206 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085620.206 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085620.206 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085620.206 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085620.206 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085620.206 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085620.206 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085620.206 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085620.206 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085620.206 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085620.206 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085620.206 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085620.206 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085636.015 INFO             PET0 Finalizing ESMF
+20210412 085638.136 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085638.136 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085638.136 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085638.136 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085638.136 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085638.136 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085638.136 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085638.136 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085638.136 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085638.136 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085638.136 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085638.136 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085638.136 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085638.136 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085638.136 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085638.137 INFO             PET0 Finalizing ESMF
+20210412 085638.241 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085638.241 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085638.241 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085638.241 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085638.241 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085638.241 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085638.241 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085638.241 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085638.241 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085638.241 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085638.241 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085638.241 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085638.241 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085638.241 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085638.241 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085638.241 INFO             PET0 Finalizing ESMF
+20210412 085638.394 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085638.394 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085638.394 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085638.394 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085638.394 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085638.394 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085638.394 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085638.394 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085638.394 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085638.394 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085638.394 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085638.394 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085638.394 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085638.394 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085638.394 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085653.590 INFO             PET0 Finalizing ESMF
+20210412 085655.821 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085655.821 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085655.821 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085655.821 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085655.821 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085655.821 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085655.821 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085655.821 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085655.821 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085655.821 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085655.821 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085655.821 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085655.821 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085655.821 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085655.821 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085655.822 INFO             PET0 Finalizing ESMF
+20210412 085655.934 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085655.935 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085655.935 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085655.935 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085655.935 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085655.935 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085655.935 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085655.935 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085655.935 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085655.935 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085655.935 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085655.935 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085655.935 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085655.935 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085655.935 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085655.935 INFO             PET0 Finalizing ESMF
+20210412 085656.091 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085656.092 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085656.092 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085656.092 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085656.092 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085656.092 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085656.092 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085656.092 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085656.092 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085656.092 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085656.092 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085656.092 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085656.092 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085656.092 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085656.092 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085711.090 INFO             PET0 Finalizing ESMF
+20210412 085713.349 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085713.349 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085713.349 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085713.349 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085713.349 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085713.349 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085713.349 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085713.349 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085713.349 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085713.349 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085713.349 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085713.349 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085713.349 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085713.349 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085713.349 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085713.350 INFO             PET0 Finalizing ESMF
+20210412 085713.473 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085713.473 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085713.473 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085713.473 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085713.473 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085713.473 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085713.473 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085713.473 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085713.473 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085713.473 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085713.473 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085713.473 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085713.473 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085713.473 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085713.473 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085713.474 INFO             PET0 Finalizing ESMF
+20210412 085713.629 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085713.629 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210412 085713.629 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210412 085713.629 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210412 085713.629 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210412 085713.629 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210412 085713.629 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210412 085713.629 INFO             PET0 ESMF library build date/time: "Nov 13 2020" "06:23:48"
+20210412 085713.629 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1605247953480/work
+20210412 085713.629 INFO             PET0 ESMF_COMM                   : mpiuni
+20210412 085713.629 INFO             PET0 ESMF_NETCDF                 : enabled
+20210412 085713.629 INFO             PET0 ESMF_PNETCDF                : disabled
+20210412 085713.629 INFO             PET0 ESMF_PIO                    : disabled
+20210412 085713.629 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210412 085713.629 INFO             PET0 ESMF_MOAB                   : enabled
+20210412 085728.711 INFO             PET0 Finalizing ESMF
