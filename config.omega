@@ -1,21 +1,18 @@
 #!/bin/bash
 
 
+cd /home/ubuntu/SIMOP
 
-export MAIN="/mnt/e/OPERACIONAL/SIMOP/"
-export CICC="/mnt/d/DADOS//CICC/"
-export OBS="/mnt/d/DADOS/OBS/"
+export MAIN="/home/ubuntu/SIMOP/"
+export CICC="/home/ubuntu/DADOS/CICC/"
+export OBS="/home/ubuntu/DADOS/OBS/"
 
-export OUTPUTMODEL="/mnt/e/OPERACIONAL/SIMOP//OUTPUT/MODELOS/"
-export OUTPUTOBS="/mnt/e/OPERACIONAL/SIMOP//OUTPUT/OBS/"
-
-
-export CONTORNOS="/mnt/e/OPERACIONAL/SIMOP//MAIN/CONTORNOS/"
+export CONTORNOS="/home/ubuntu/SIMOP//MAIN/CONTORNOS/"
 
 export GFS=$CICC"/GRIB/GFS/"
 export GEFS=$CICC"/GRIB/GEFS/"
 export GFSALL=$CICC"/GRIB/GEFS/"`date +"%Y%m%d/"`
 export CHUVAOBS=$OBS"/CHUVAOBS/"
 export SSTOBS=$OBS/"SST/"
-export OUTPUTDIR="/mnt/e/OPERACIONAL/OUTPUT/"
+export OUTPUTDIR=$MAIN"/OUTPUT/"
 export CFS=$CICC"/NETCDF/CFS/"

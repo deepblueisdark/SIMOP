@@ -4,7 +4,7 @@ export PATH=$PATH:/opt/opengrads
 export LANG=en_us_8859_1
 
 
-cd /mnt/e/OPERACIONAL/SIMOP/
+cd /home/ubuntu/SIMOP/
 source  ./config.omega
 export OUTPUT=$OUTPUTDIR"/"`date +"%Y%m%d"`"/" 
 mkdir -p $OUTPUT 
