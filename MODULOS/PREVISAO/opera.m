@@ -1,0 +1,12 @@
+clear
+M=importdata("multmodels_d_2021071200.csv");
+xlswrite('work.xlsx',M.textdata,'diario','a2')
+xlswrite('work.xlsx',M.data,'diario','e2')
+clear
+M=importdata("multmodels_h_2021071200.csv");
+xlswrite('work.xlsx',M.textdata,'horario','a2')
+xlswrite('work.xlsx',M.data,'horario','e2')
+clear
+M=importdata("multmodels_stat_2021071200.csv");
+xlswrite('work.xlsx',M.textdata,'fromstat','b1')
+xlswrite('work.xlsx',M.data,'fromstat','b2')

@@ -15,7 +15,7 @@ begin
 	lon=fi->lon
 	lev=0
 
-	dirESMF="/mnt/e/OPERACIONAL/SIMOP/MODULOS/CPC/CALCULA_ANOMALIA/"
+	dirESMF="/mnt/e/OPERACIONAL/SIMOP/MODULOS/CPC/CALCULA_ANOMALIAS/"
 	dir     = "/mnt/d/DADOS/SHAPES/OPERACIONAL/"
 	filename = dir + "sinv1.shp"
 
@@ -284,7 +284,7 @@ begin
 	;
 	config=True
 	;dir_clima="../../MODULOS/CPC/CLIMA/CLIMATOLOGIAS/"
-	dir_clima="/mnt/d/DADOS/OBS/CHUVAOBS/CPC_GAUGE_0P50/CLIMATOLOGIA/"
+	dir_clima="/mnt/d/DADOS/OBS/CHUVAOBS/CPC_GAUGE_0P50/CLIMATOLOGIA/CLIMATOLOGIAS/"
 	
 	if (isdefined("modo_run") .eq. "False") then 
 		;
